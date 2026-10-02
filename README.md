@@ -24,4 +24,4 @@ AI 에이전트 · 스마트 팩토리 · 비전 AI · 위성 통신 · 소프�
 
 <br>
 
-[haejyn.github.io](https://haejyn.github.io)
+[haejyn.github.io](https://haejyn.github.io) · [회사별 포트폴리오 (임시)](https://haejyn.github.io/choose/)
