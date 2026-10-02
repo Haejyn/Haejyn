@@ -24,4 +24,11 @@ AI 에이전트 · 스마트 팩토리 · 비전 AI · 위성 통신 · 소프�
 
 <br>
 
-[haejyn.github.io](https://haejyn.github.io) · [회사별 포트폴리오 (임시)](https://haejyn.github.io/choose/)
+**Portfolio**
+
+| | |
+|:-:|---|
+| <img src="https://haejyn.github.io/media/tving-icon.png" height="28" alt="TVING"> | [TVING · AI Product Builder](https://haejyn.github.io/) |
+| <img src="https://haejyn.github.io/media/satreci-logo.png" height="28" alt="쎄트렉아이"> | [쎄트렉아이](https://haejyn.github.io/satreci/) (준비 중) |
+| <img src="https://haejyn.github.io/media/skhynix-logo.png" height="28" alt="SK하이닉스"> | [SK하이닉스 해커톤](https://haejyn.github.io/skhynix/) (준비 중) |
+| <img src="https://haejyn.github.io/media/autoever-logo.jpg" height="28" alt="현대오토에버"> | [현대오토에버](https://haejyn.github.io/autoever/) (준비 중) |
